@@ -10,5 +10,3 @@ Supplementary audio 1. Excercise 1: Acc0.
 Supplementary audio 2. Excercise 2: Tacho.
 Supplementary audio 3. Excercise 2: Acc1.
 Supplementary audio 4. Excercise 2: Acc2.
-
-Copyright (C) 2019 He Dong <hedong@stu.xjtu.edu.cn>
