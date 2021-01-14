@@ -1,7 +1,8 @@
 # downsampled_SST
 A fast implementation of synchrosqueezing transform (SST) based on downsampling scheme (also known as downsampling-based SST or fast SST). 
 The codes are designed for large scale vibrational data analysis.
-
+We would be grateful if scientific publications resulting from TSST would cite our work properly.
+He D, Cao H. Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data[J]. Journal of Sound and Vibration, 115938.
 
 # data source
 
