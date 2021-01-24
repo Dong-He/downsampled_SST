@@ -4,7 +4,15 @@ The codes are designed for large scale vibrational data analysis.
 
 We would be grateful if scientific publications resulting from downsampled SST would cite our work properly.
 
-He D, Cao H. Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data[J]. Journal of Sound and Vibration, 115938.
+Dong He, Hongrui Cao,
+[Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data](http://www.sciencedirect.com/science/article/pii/S0022460X21000109),
+Journal of Sound and Vibration,
+Volume 496,
+2021,
+115938,
+ISSN 0022-460X,
+https://doi.org/10.1016/j.jsv.2021.115938.
+
 
 # data source
 
